@@ -1,6 +1,7 @@
 # ============================================
 # Ames Housing Price Prediction - Requirements
 # ============================================
+# Python Version: 3.12+
 # Run: pip install -r requirements.txt
 
 # Core Data Manipulation
@@ -21,4 +22,4 @@ statsmodels==0.14.4
 
 # Jupyter Notebook Support
 ipykernel==7.1.0
-jupyter
+jupyter==1.1.1
